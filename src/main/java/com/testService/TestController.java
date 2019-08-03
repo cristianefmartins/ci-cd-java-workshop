@@ -9,9 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @CrossOrigin
 public class TestController {
-
+/***
+* This is the javadoc example.
+*/
     @GetMapping("/home")
     public String homeRequest() {
        return "Hello World!";
-	}
+    }
 }
