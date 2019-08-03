@@ -17,7 +17,7 @@ public class TestServiceApplication {
 /***
 * This is the javadoc example.
 */
-    private String bar = new String("bar");
+    //private String bar = new String("bar");
 /***
 * This is the javadoc example.
 */
